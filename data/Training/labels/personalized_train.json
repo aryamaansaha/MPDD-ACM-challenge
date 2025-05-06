@@ -1,0 +1,236 @@
+{
+    "1": {
+        "id": "1",
+        "binary_depression": 0,
+        "tri_depression": 0,
+        "HAMD_24": 4.0,
+        "PHQ_9": 2.0,
+        "big5_traits": {
+            "Extraversion": 1,
+            "Agreeableness": 0,
+            "Openness": 0,
+            "Neuroticism": 0,
+            "Conscientiousness": 0
+        },
+        "big5_scores": {
+            "Extraversion": 12.0,
+            "Agreeableness": 9.0,
+            "Openness": 8.0,
+            "Neuroticism": 7.0,
+            "Conscientiousness": 8.0
+        },
+        "family_factors": {
+            "Financial_Stress": 0.0,
+            "Family_Members": 2
+        },
+        "disease": "1"
+    },
+    "2": {
+        "id": "2",
+        "binary_depression": 1,
+        "tri_depression": 2,
+        "HAMD_24": 38.0,
+        "PHQ_9": 15.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 1,
+            "Openness": 1,
+            "Neuroticism": 0,
+            "Conscientiousness": 0
+        },
+        "big5_scores": {
+            "Extraversion": 8.0,
+            "Agreeableness": 14.0,
+            "Openness": 14.0,
+            "Neuroticism": 8.0,
+            "Conscientiousness": 8.0
+        },
+        "family_factors": {
+            "Financial_Stress": 0.0,
+            "Family_Members": 1
+        },
+        "disease": "4"
+    },
+    "10": {
+        "id": "10",
+        "binary_depression": 1,
+        "tri_depression": 2,
+        "HAMD_24": 20.0,
+        "PHQ_9": 6.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 0,
+            "Openness": 0,
+            "Neuroticism": 0,
+            "Conscientiousness": 1
+        },
+        "big5_scores": {
+            "Extraversion": 4.0,
+            "Agreeableness": 11.0,
+            "Openness": 4.0,
+            "Neuroticism": 8.0,
+            "Conscientiousness": 13.0
+        },
+        "family_factors": {
+            "Financial_Stress": 0.0,
+            "Family_Members": 4
+        },
+        "disease": "4"
+    },
+    "20": {
+        "id": "20",
+        "binary_depression": 0,
+        "tri_depression": 1,
+        "HAMD_24": 12.0,
+        "PHQ_9": 4.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 0,
+            "Openness": 0,
+            "Neuroticism": 0,
+            "Conscientiousness": 1
+        },
+        "big5_scores": {
+            "Extraversion": 5.0,
+            "Agreeableness": 13.0,
+            "Openness": 10.0,
+            "Neuroticism": 8.0,
+            "Conscientiousness": 14.0
+        },
+        "family_factors": {
+            "Financial_Stress": 0.0,
+            "Family_Members": 4
+        },
+        "disease": "2"
+    },
+    "40": {
+        "id": "40",
+        "binary_depression": 0,
+        "tri_depression": 1,
+        "HAMD_24": 14.0,
+        "PHQ_9": 3.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 1,
+            "Openness": 0,
+            "Neuroticism": 0,
+            "Conscientiousness": 0
+        },
+        "big5_scores": {
+            "Extraversion": 3.0,
+            "Agreeableness": 13.0,
+            "Openness": 2.0,
+            "Neuroticism": 2.0,
+            "Conscientiousness": 8.0
+        },
+        "family_factors": {
+            "Financial_Stress": 2.0,
+            "Family_Members": 1
+        },
+        "disease": "3"
+    },
+    "60": {
+        "id": "60",
+        "binary_depression": 0,
+        "tri_depression": 0,
+        "HAMD_24": 6.0,
+        "PHQ_9": 2.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 0,
+            "Openness": 0,
+            "Neuroticism": 0,
+            "Conscientiousness": 1
+        },
+        "big5_scores": {
+            "Extraversion": 5.0,
+            "Agreeableness": 9.0,
+            "Openness": 8.0,
+            "Neuroticism": 8.0,
+            "Conscientiousness": 11.0
+        },
+        "family_factors": {
+            "Financial_Stress": 1.0,
+            "Family_Members": 2
+        },
+        "disease": "4"
+    },
+    "70": {
+        "id": "70",
+        "binary_depression": 0,
+        "tri_depression": 1,
+        "HAMD_24": 13.0,
+        "PHQ_9": 2.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 1,
+            "Openness": 1,
+            "Neuroticism": 0,
+            "Conscientiousness": 1
+        },
+        "big5_scores": {
+            "Extraversion": 13.0,
+            "Agreeableness": 14.0,
+            "Openness": 14.0,
+            "Neuroticism": 9.0,
+            "Conscientiousness": 14.0
+        },
+        "family_factors": {
+            "Financial_Stress": 0.0,
+            "Family_Members": 2
+        },
+        "disease": "2"
+    },
+    "80": {
+        "id": "80",
+        "binary_depression": 0,
+        "tri_depression": 1,
+        "HAMD_24": 15.0,
+        "PHQ_9": 8.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 0,
+            "Openness": 0,
+            "Neuroticism": 0,
+            "Conscientiousness": 1
+        },
+        "big5_scores": {
+            "Extraversion": 12.0,
+            "Agreeableness": 12.0,
+            "Openness": 12.0,
+            "Neuroticism": 11.0,
+            "Conscientiousness": 13.0
+        },
+        "family_factors": {
+            "Financial_Stress": 0.0,
+            "Family_Members": 2
+        },
+        "disease": "3"
+    },
+    "90": {
+        "id": "90",
+        "binary_depression": 0,
+        "tri_depression": 1,
+        "HAMD_24": 16.0,
+        "PHQ_9": 4.0,
+        "big5_traits": {
+            "Extraversion": 0,
+            "Agreeableness": 1,
+            "Openness": 0,
+            "Neuroticism": 0,
+            "Conscientiousness": 0
+        },
+        "big5_scores": {
+            "Extraversion": 2.0,
+            "Agreeableness": 13.0,
+            "Openness": 6.0,
+            "Neuroticism": 3.0,
+            "Conscientiousness": 4.0
+        },
+        "family_factors": {
+            "Financial_Stress": 0.0,
+            "Family_Members": 2
+        },
+        "disease": "4"
+    }
+}

@@ -1,0 +1,290 @@
+[
+    {
+        "id": "1",
+        "audio_feature_path": "1_A_1_audio_features.npy",
+        "video_feature_path": "1_V_1_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "1",
+        "audio_feature_path": "1_A_2_audio_features.npy",
+        "video_feature_path": "1_V_2_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "1",
+        "audio_feature_path": "1_A_3_audio_features.npy",
+        "video_feature_path": "1_V_3_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "1",
+        "audio_feature_path": "1_A_4_audio_features.npy",
+        "video_feature_path": "1_V_4_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "2",
+        "audio_feature_path": "2_A_1_audio_features.npy",
+        "video_feature_path": "2_V_1_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 3
+    },
+    {
+        "id": "2",
+        "audio_feature_path": "2_A_2_audio_features.npy",
+        "video_feature_path": "2_V_2_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 3
+    },
+    {
+        "id": "2",
+        "audio_feature_path": "2_A_3_audio_features.npy",
+        "video_feature_path": "2_V_3_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 3
+    },
+    {
+        "id": "2",
+        "audio_feature_path": "2_A_4_audio_features.npy",
+        "video_feature_path": "2_V_4_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 3
+    },
+    {
+        "id": "10",
+        "audio_feature_path": "10_A_1_audio_features.npy",
+        "video_feature_path": "10_V_1_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 1
+    },
+    {
+        "id": "10",
+        "audio_feature_path": "10_A_2_audio_features.npy",
+        "video_feature_path": "10_V_2_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 1
+    },
+    {
+        "id": "10",
+        "audio_feature_path": "10_A_3_audio_features.npy",
+        "video_feature_path": "10_V_3_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 1
+    },
+    {
+        "id": "10",
+        "audio_feature_path": "10_A_4_audio_features.npy",
+        "video_feature_path": "10_V_4_video_features.npy",
+        "bin_category": 1,
+        "tri_category": 2,
+        "pen_category": 1
+    },
+    {
+        "id": "20",
+        "audio_feature_path": "20_A_1_audio_features.npy",
+        "video_feature_path": "20_V_1_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "20",
+        "audio_feature_path": "20_A_2_audio_features.npy",
+        "video_feature_path": "20_V_2_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "20",
+        "audio_feature_path": "20_A_3_audio_features.npy",
+        "video_feature_path": "20_V_3_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "20",
+        "audio_feature_path": "20_A_4_audio_features.npy",
+        "video_feature_path": "20_V_4_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "40",
+        "audio_feature_path": "40_A_1_audio_features.npy",
+        "video_feature_path": "40_V_1_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "40",
+        "audio_feature_path": "40_A_2_audio_features.npy",
+        "video_feature_path": "40_V_2_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "40",
+        "audio_feature_path": "40_A_3_audio_features.npy",
+        "video_feature_path": "40_V_3_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "40",
+        "audio_feature_path": "40_A_4_audio_features.npy",
+        "video_feature_path": "40_V_4_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "60",
+        "audio_feature_path": "60_A_1_audio_features.npy",
+        "video_feature_path": "60_V_1_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "60",
+        "audio_feature_path": "60_A_2_audio_features.npy",
+        "video_feature_path": "60_V_2_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "60",
+        "audio_feature_path": "60_A_3_audio_features.npy",
+        "video_feature_path": "60_V_3_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "60",
+        "audio_feature_path": "60_A_4_audio_features.npy",
+        "video_feature_path": "60_V_4_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 0,
+        "pen_category": 0
+    },
+    {
+        "id": "70",
+        "audio_feature_path": "70_A_1_audio_features.npy",
+        "video_feature_path": "70_V_1_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "70",
+        "audio_feature_path": "70_A_2_audio_features.npy",
+        "video_feature_path": "70_V_2_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "70",
+        "audio_feature_path": "70_A_3_audio_features.npy",
+        "video_feature_path": "70_V_3_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "70",
+        "audio_feature_path": "70_A_4_audio_features.npy",
+        "video_feature_path": "70_V_4_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "80",
+        "audio_feature_path": "80_A_1_audio_features.npy",
+        "video_feature_path": "80_V_1_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 1
+    },
+    {
+        "id": "80",
+        "audio_feature_path": "80_A_2_audio_features.npy",
+        "video_feature_path": "80_V_2_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 1
+    },
+    {
+        "id": "80",
+        "audio_feature_path": "80_A_3_audio_features.npy",
+        "video_feature_path": "80_V_3_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 1
+    },
+    {
+        "id": "80",
+        "audio_feature_path": "80_A_4_audio_features.npy",
+        "video_feature_path": "80_V_4_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 1
+    },
+    {
+        "id": "90",
+        "audio_feature_path": "90_A_1_audio_features.npy",
+        "video_feature_path": "90_V_1_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "90",
+        "audio_feature_path": "90_A_2_audio_features.npy",
+        "video_feature_path": "90_V_2_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "90",
+        "audio_feature_path": "90_A_3_audio_features.npy",
+        "video_feature_path": "90_V_3_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    },
+    {
+        "id": "90",
+        "audio_feature_path": "90_A_4_audio_features.npy",
+        "video_feature_path": "90_V_4_video_features.npy",
+        "bin_category": 0,
+        "tri_category": 1,
+        "pen_category": 0
+    }
+]
