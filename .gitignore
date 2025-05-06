@@ -1,0 +1,15 @@
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore all .pth files
+*.pth
+
+.venv/
+
+# Ignore all .ipynb files
+*.ipynb
+
+# Ignore all .pyc files
+*.pyc
+
+data/
