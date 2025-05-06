@@ -1,7 +1,7 @@
-# How to run it
-
+# MPDD ACM Challenge
+## Instructions to Run it
 ## Getting a python venv
-make sure you have Python version `3.13.2` available on path as python3 and execute the following commands in folder
+Ensure you have Python version `3.13.2` available on path as python3 and execute the following commands in folder
 
 ```
 python3 -m venv .venv
@@ -34,7 +34,7 @@ You should be able to run all models direcrtly now
 ## Note
 If you are on MAC (M chips) you don't have to worry about device (mps selected by default).
 Otherwise, you may have to change the device in config and some scripts require you to manually set this as a global variable.
-Since we used MACOS to run the models we can't test on other devices
+If you want to use a GPU, set the config to 'cuda:0'. 
 
 # Project Structures
 Representation of folders:
@@ -46,15 +46,13 @@ Representation of folders:
 - run_*.py: script to run the respective model
 
 # Contributions
-- MLP and baseline models : Aryamaan Saha
+- MLP, SVM and baseline models : Aryamaan Saha
 - LSTM and basic transformers: Niranjan
 - Transformers and regularization: Kaushal
 
 # Note
-Since the data provided here is fake, you won't get good results.
-To get the original data, please contact the MPDD challenge team
-
-## Config explanation (not necesarry to understand)
+The dataset included here is a limited subset and does not reflect the full original MPDD dataset. For access to the complete dataset, please reach out directly to the MPDD Challenge organizers.
+## Config explanation (not necessary to understand)
 
 -  data_root_path: path to your data directory (Elderly or Young)
 -  window_split_time: 1 
